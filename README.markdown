@@ -1,6 +1,6 @@
 # Vintage Pacman
 
-[Live demo](https://codepen.io/bodvar/full/dyvQGym).
+[Live demo](https://codepen.io/bodvar/full/oNZaLeG).
 
 
 
